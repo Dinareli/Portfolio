@@ -1,0 +1,119 @@
+
+
+ #profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+ .container {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Helvetica;
+        color: #323232;
+        border: none;
+      }
+      
+      body {
+        background-image: url('./image/background.jpg');
+        background-size: cover;
+        background-position-y: -200px;
+      }
+      
+      a {
+        font-size: .9rem;
+      }
+      
+    
+    #Perfil-container {
+        background-color: #FFF;
+        margin-left: auto;
+        margin-right: auto;
+        width: 800px;
+        padding: 20px 30px;
+        margin-top: 10vh;
+        border-radius: 10px;
+        text-align: center;
+        font-family: Helvetica;
+      }
+          
+    div {
+        margin-top: 30px;
+        margin-bottom: 10px;
+      }
+      
+      .dataNasc {
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+      }
+
+      
+      .email {
+        font-weight: bold;
+        font-size: .9rem;
+        width: 100%;
+        text-align: center;
+    }
+        
+    #social-container {
+        margin-bottom: 20px;
+        text-decoration: none;
+    }
+      
+      #social-container a {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        line-height: 40px;
+        margin: 0 5px;
+        margin-bottom: 10px;
+        text-decoration: none;
+      }
+        
+    a:visited {
+        text-decoration:none;
+    }
+
+    a:hover {
+        text-decoration:underline;
+        }
+
+      #cursos p {
+        margin-bottom: 10px;
+      }
+
+      #cursos h2 {
+        margin-bottom: 10px; 
+      }
+
+      #cursos h3 {
+        font-family: Helvetica;
+        font-weight: bold;
+      }
+
+      #cursos P {
+        font-weight: bold;
+      }
+  
+      li {
+        list-style: none;
+      }
+
+      #experience p {
+        margin-bottom: 10px;
+      }
+
+      #experience h2 {
+        margin-bottom: 10px; 
+      }
+
+      #experience h3 {
+        font-family: Helvetica;
+        font-weight: bold;
+      }
+
+      #experience P {
+        font-weight: bold;
+      }
